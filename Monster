@@ -1,0 +1,4 @@
+public interface Monster{
+  int hp;
+  public abstract void run();
+  public abstract void attack(Character c);
